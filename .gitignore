@@ -74,5 +74,4 @@ typings/
 # Serverless directories
 .serverless
 
-/config/config.json
 .idea
